@@ -1,0 +1,11 @@
+.product__list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.card {
+  width: 30%;
+  margin: 20px 0;
+}
